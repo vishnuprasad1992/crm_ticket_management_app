@@ -1,0 +1,13 @@
+.message-history{
+    display: flex;
+    flex-direction: row;
+}
+.message-history:nth-child(even){
+    display: flex;
+    flex-direction: row-reverse;
+}
+.message{
+    width: 50%;
+    border: 1px solid lightskyblue;
+    border-radius: 10px;
+}

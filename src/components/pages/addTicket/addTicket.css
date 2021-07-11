@@ -1,0 +1,13 @@
+.btn-width{
+    width: 80%;
+}
+.text-size{
+    font-size: 17px;
+    padding: 5px;
+}
+.shadow{
+    box-shadow: -1px 3px 24px -3px rgba(219,149,232,0.75);
+    -webkit-box-shadow: -1px 3px 24px -3px rgba(219,149,232,0.75);
+    -moz-box-shadow: -1px 3px 24px -3px rgba(219,149,232,0.75);
+    border-radius: 10px;
+}

@@ -1,0 +1,14 @@
+
+### Register user
+
+POST   http://localhost:5000/api/auth/register
+
+Content-Type: application/json
+{
+    "name":"vishdfgfdgnu",
+    "email":"prasaddd12@gmail.com",
+    "mobile":"7895561230",
+    "company":"Apple",
+    "address":"pondy",
+    "password":"123456"
+}

@@ -1,0 +1,13 @@
+.border-style{
+    border: none;
+    border-radius: 1rem;
+    padding: 10px 0;
+    box-shadow: -4px -1px 11px -2px rgba(160, 214, 226, 0.58);
+    -webkit-box-shadow: -4px -1px 11px -2px rgba(206,233,239,0.58);
+    -moz-box-shadow: -4px -1px 11px -2px rgba(206,233,239,0.58);
+}
+.registeration-page{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

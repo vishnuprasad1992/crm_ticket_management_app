@@ -1,0 +1,10 @@
+.dashboard{
+    display: flex;
+    flex-direction: column;
+    margin: 2rem auto;
+}
+.btn-center{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}

@@ -1,0 +1,19 @@
+header{
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
+.font-size{
+    font-size: 16;
+    text-transform: uppercase;
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+    /* font-family: 'Roboto', sans-serif; */
+}
+.brand-font{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    letter-spacing: 0.5rem;
+    background-color: lightcoral;
+    padding: 0 10px;
+}
